@@ -29,4 +29,3 @@ char	*ft_strrchr(const char *str, int ch)
 		return ((char *)&str[i]);
 	return (c);
 }
-
